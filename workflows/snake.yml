@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+# Controls when the action will run. This runs every 6 hours.
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:
+
+# This workflow runs a job called "generate"
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Downloads a copy of the repository
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Generates the snake animation and pushes it to the output branch
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: 92kareeem   # Your GitHub username
+          outputs: svg  # Generates a .svg file
+          output_path: dist/github-contribution-grid-snake.svg
+
+      # Push the generated .svg to the output branch
+      - name: Push generated animation
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: output  # Pushes to the "output" branch
+          force: true
+          path: dist/github-contribution-grid-snake.svg
