@@ -6,10 +6,9 @@
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/92kareeem/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/92kareeem/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-9.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/92kareeem/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-8.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/92kareeem/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/92kareeem/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/92kareeem/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-9.png" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/92kareeem/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-8.png" alt="jyot" height="100" width="100" /></a>
 </p>
 <p align="center">
   
