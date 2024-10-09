@@ -1,7 +1,3 @@
-<div align="center"> 
-  <h2>🐍 Contributions Overview 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/92kareeem/92kareeem/output/github-contribution-grid-snake.svg" />
-</div>
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
