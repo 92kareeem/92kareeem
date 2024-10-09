@@ -7,13 +7,13 @@
 <h2 align="center">Leetcode Info</h2>  
 <p align="center">
   <a href="https://leetcode.com/92kareeem/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode logo" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode logo" height="100" width="100" />
   </a>
   <a href="https://leetcode.com/92kareeem/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-9.png" alt="LeetCode badge" height="200" width="200" />
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-9.png" alt="LeetCode badge" height="100" width="100" />
   </a>
   <a href="https://leetcode.com/92kareeem/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-8.png" alt="LeetCode badge" height="200" width="200" />
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-8.png" alt="LeetCode badge" height="100" width="100" />
   </a>
 </p>
 
