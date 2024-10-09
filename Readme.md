@@ -1,6 +1,7 @@
-## 🐍 GitHub Contributions Snake:
-![Snake animation](https://github.com/92kareeem/92kareeem/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center"> 
+<h2>🐍 Contributions 🐍</h2>
+<img alt="snake eating my contributions" src="https://github.com/92kareeem/92kareeem/blob/output/github-contribution-grid-snake.svg" />
+</div>
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/92kareeem/" target="_blank">
