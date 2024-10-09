@@ -28,11 +28,3 @@
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=92kareeem&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
 </div>
 
-<div align="center"> 
-  <h2>📊 Contribution Activity Overview 📊</h2>
-  <p align="center">
-    <a href="https://github.com/92kareeem" target="_blank">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=92kareeem&theme=react-dark" alt="Contribution Overview" />
-    </a>
-  </p>
-</div>
