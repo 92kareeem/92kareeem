@@ -1,3 +1,5 @@
+## 🐍 GitHub Contributions Snake:
+![Snake animation](https://github.com/92kareeem/92kareeem/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
