@@ -12,11 +12,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Debug Inputs
+        run: |
+          echo "GITHUB_ACTOR: ${{ github.92kareeem }}"
+          echo "GITHUB_REPOSITORY: ${{ github.GitStats}}"
+
       - name: Generate Snake GIF
         uses: Platane/snk@v2.0.0
         with:
-          github_user_name: "92kareeem"  # Replace with your actual GitHub username
-          svg_out_path: "dist/snake.svg"
+          github_user_name: ${{ github.92kareeem }}  # Using the actor who triggered the workflow
+          svg_out_path: dist/snake.svg
 
       - name: Upload artifact
         uses: actions/upload-artifact@v3
