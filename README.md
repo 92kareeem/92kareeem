@@ -44,18 +44,10 @@ I’m an AI/ML Engineer passionate about building **real-world, production-ready
 **Tools:** Git, MySQL, Jupyter, VS Code, Google Colab  
 **Web:** Flask, FastAPI, Streamlit, React
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=92kareeem&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=92kareeem&layout=compact&theme=radical)
-
----
 
 ## 🤝 Let’s Connect
 - 📧 Email: **syedabdulkareemahmed@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/syed-abdul-kareem-ahmed](https://www.linkedin.com/in/syed-abdul-kareem-ahmed)
+- 💼 LinkedIn: [linkedin.com/in/92kareem](https://www.linkedin.com/in/92kareem)
 - 🧠 LeetCode: [leetcode.com/u/92kareeem](https://leetcode.com/u/92kareeem)
 
 ---
