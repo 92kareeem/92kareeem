@@ -8,7 +8,7 @@ Previously Software Developer at IIIT-Hyderabad (IHub-Data) with expertise in EE
 I specialize in transforming research concepts into production-ready AI systems, designing scalable ML pipelines, LLM-powered automation frameworks, and intelligent applications that solve real-world problems.
 
 </details>
-<details open> <summary><h2>Professional Experience</h2></summary> <div> <img align="right" width="120" src="https://img.shields.io/badge/IIIT%20Hyderabad-Research-red?style=for-the-badge" /> <h3>Software Developer </h3> <p>IIIT-Hyderabad (IHub-Data) | 2025 </p> <ul> <li>Developing ML systems integrating EEG + sensor data for intelligent human-computer interaction</li> <li>Designing real-time preprocessing, feature extraction, and inference pipelines</li> <li>Bridging research models with deployable AI solutions</li> </ul> </div> <div> <img align="right" width="120" src="https://img.shields.io/badge/AI%20Engineering-Projects-blueviolet?style=for-the-badge" /> <h3>AI Systems Developer</h3> <p>Independent & Academic AI Projects</p> <ul> <li>Built end-to-end AI applications including recommender systems and computer vision solutions</li> <li>Developed full-stack ML apps using Flask, FastAPI, Streamlit, and React</li> <li>Implemented LLM-based RAG pipelines and autonomous agent workflows</li> </ul> </div> </details>
+<details open> <summary><h2>Professional Experience</h2></summary> <div> <img align="right" width="120" src="https://img.shields.io/badge/IIIT%20Hyderabad-Research-red?style=for-the-badge" /> <h3>Software Developer </h3> <p>IIIT-Hyderabad (IHub-Data) | 2025 </p> <ul> <li>Developing ML systems integrating EEG + sensor data for intelligent human-computer interaction</li> <li>Designing real-time preprocessing, feature extraction, and inference pipelines</li> <li>Bridging research models with deployable AI solutions</li> </ul> </div> <div> <img align="right" width="120" src="https://img.shields.io/badge/AI%20Engineering-Projects-blueviolet?style=for-the-badge" /> <h3>AI Project lead </h3> <p>Infosys</p> <ul> <li>Built end-to-end AI applications including AI based Lead Scoring recommender systems and AI solutions</li> <li> Led a team of 20 members </li> </ul> </div> </details>
 <details open> <summary><h2>Technical Expertise</h2></summary> <div align="center">
 
 </div> </details>
@@ -18,7 +18,7 @@ I specialize in transforming research concepts into production-ready AI systems,
 🔹 Learning Recommendation System — Sequential recommendation (GRU4Rec) with CF baselines and ranking evaluation
 🔹 Anemia Detection (Deep Learning) — ResNet-based medical classifier with Flask deployment
 🔹 Medical Transcription NLP — Extracting structured insights from clinical transcripts
-🔹 Cybersecurity Threat Detection — ML models for anomaly and attack detection
+🔹 Cybersecurity Threat Detection — ML models for anomaly and attack detection, basic one
 🔹 Role Recommendation Engine — Skill-based intelligent career recommendation system
 
 </details>
