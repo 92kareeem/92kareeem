@@ -194,10 +194,6 @@ Real-time EEG acquisition supporting SSVEP, Motor Imagery, and P300 paradigms. A
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=92kareeem&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=ff6b35&currStreakLabel=64ffda"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=92kareeem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8" />
-</div>
-
 ---
 
 ## 🌐 Let's Connect
