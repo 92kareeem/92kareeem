@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header Banner -->
+<!-- Header Banner --> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Abdul%20Kareem%20Ahmed&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Agentic%20AI%20Developer%20%7C%20LLM%20Systems%20%7C%20Neurotechnology%20Researcher&descAlignY=58&descSize=14&descColor=a8b2d8" />
 
 <!-- Typing SVG -->
