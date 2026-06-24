@@ -68,6 +68,7 @@ I build **autonomous AI systems that work in the real world** — not just demos
 ### 📝 Data Annotator & LLM Evaluator — Innodata 
 > *Remote | Freelance*
 
+- Client: Meta SuperIntelligence Labs
 - Creating high-quality datasets for **state-of-the-art LLMs** across text and multimodal annotation tasks
 - Evaluating AI model responses for leading tech companies — providing structured feedback that directly improves model behaviour
 
