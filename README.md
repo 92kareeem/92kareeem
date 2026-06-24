@@ -65,7 +65,7 @@ I build **autonomous AI systems that work in the real world** — not just demos
 
 ---
 
-### 📝 Data Annotator & LLM Evaluator — Innodata *(Jan 2026 – Present)*
+### 📝 Data Annotator & LLM Evaluator — Innodata 
 > *Remote | Freelance*
 
 - Creating high-quality datasets for **state-of-the-art LLMs** across text and multimodal annotation tasks
